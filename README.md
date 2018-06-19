@@ -3,7 +3,7 @@ This is the demo that shows a datasheet.
 <img src="https://images2018.cnblogs.com/blog/359743/201806/359743-20180603225915973-2039825735.png" />
 
 * Java8
-* Spring Boot2 v2.0.2
+* Spring Boot2 v2.0.3
 * JPA
 * MySQL
 * Thymeleaf
@@ -13,6 +13,7 @@ This is the demo that shows a datasheet.
 
 - [App](#app)
 - [PC](#pc)
+- [Package](#package)
 
 ## App
 ```java
@@ -38,4 +39,9 @@ This is the demo that shows a datasheet.
 		}
 		return "userList";
 	}
+```
+
+## Package
+```bash
+mvn package
 ```
