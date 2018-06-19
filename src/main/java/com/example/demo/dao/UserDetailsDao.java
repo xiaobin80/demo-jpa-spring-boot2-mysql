@@ -6,5 +6,5 @@ import com.example.demo.model.UserDetails;
 
 public interface UserDetailsDao {
 	List<UserDetails> getUserDetails();
-	UserDetails findUserById(String userId);
+	UserDetails findUserById(Integer userId);
 }

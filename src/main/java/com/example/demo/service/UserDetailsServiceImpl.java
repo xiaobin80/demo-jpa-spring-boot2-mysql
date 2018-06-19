@@ -19,5 +19,11 @@ public class UserDetailsServiceImpl implements UserDetailsService {
 		// TODO Auto-generated method stub
 		return userDao.getUserDetails();
 	}
+	
+	@Override
+	public UserDetails findUser(Integer userId) {
+		// TODO Auto-generated method stub
+		return userDao.findUserById(userId);
+	}
 
 }

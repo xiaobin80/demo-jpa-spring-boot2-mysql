@@ -32,7 +32,7 @@ public class UserDetailsImpl implements UserDetailsDao {
 	}
 
 	@Override
-	public UserDetails findUserById(String userId) {
+	public UserDetails findUserById(Integer userId) {
 		// TODO Auto-generated method stub
 		return entityManager.find(UserDetails.class, userId);
 	}
