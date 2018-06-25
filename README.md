@@ -17,7 +17,8 @@ This is the demo that shows a datasheet.
 
 ## App
 ```java
-	@CrossOrigin(origins = "http://localhost:3000")
+	//@CrossOrigin(origins = "http://localhost:3000")
+	@CrossOrigin(origins = {"http://localhost:3000", "http://localhost:3030"})
 	@GetMapping(value = "/list", produces = MediaType.APPLICATION_JSON_UTF8_VALUE)
 	public ResponseEntity<List<UserDetails>> getAllUser() {
 		List<UserDetails> user = userService.getUsers();
