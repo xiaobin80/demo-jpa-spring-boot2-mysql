@@ -3,11 +3,14 @@ This is the demo that shows a datasheet.
 <img src="https://images2018.cnblogs.com/blog/359743/201806/359743-20180603225915973-2039825735.png" />
 
 * Java8
-* Spring Boot2 v2.0.3
+* Spring Boot2    
+>> [2.0.6.RELEASE](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
 * Thymeleaf
-* React(Optional)
+* ReactJS    
+>> [userDetails-saga](https://github.com/xiaobin80/userDetails-saga)    
+>> [userDetails-thunk](https://github.com/xiaobin80/userDetails-thunk)    
 
 ## Table of Contents
 
