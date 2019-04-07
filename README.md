@@ -4,7 +4,7 @@ This is the demo that shows a datasheet.
 
 * Java8
 * Spring Boot2    
->> [2.0.8.RELEASE](https://spring.io/projects/spring-boot#learn)
+>> [2.0.9.RELEASE](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
 * Thymeleaf
