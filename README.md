@@ -4,7 +4,7 @@ This is the demo that shows a datasheet.
 
 * Java8
 * Spring Boot2    
->> [2.0.9.RELEASE](https://spring.io/projects/spring-boot#learn)
+>> [2.1.6.RELEASE](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
 * Thymeleaf
@@ -18,7 +18,7 @@ This is the demo that shows a datasheet.
 - [PC](#pc)
 - [Package](#package)
 
-## App
+### App
 ```java
 	//@CrossOrigin(origins = "http://localhost:3000")
 	@CrossOrigin(origins = {"http://localhost:3000", "http://localhost:3030"})
@@ -30,7 +30,7 @@ This is the demo that shows a datasheet.
 ```
 
 
-## Pc
+### Pc
 ```java
 	@RequestMapping(value = "/listPage", method = RequestMethod.GET)
 	public String findAll(Model model) {
@@ -45,7 +45,7 @@ This is the demo that shows a datasheet.
 	}
 ```
 
-## Package
+### Package
 ```bash
 mvn package
 ```
