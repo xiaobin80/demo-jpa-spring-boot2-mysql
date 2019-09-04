@@ -4,7 +4,7 @@ This is the demo that shows a datasheet.
 
 * Java8
 * Spring Boot2    
->> [2.1.6.RELEASE](https://spring.io/projects/spring-boot#learn)
+>> [2.1.7.RELEASE](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
 * Thymeleaf
@@ -47,5 +47,5 @@ This is the demo that shows a datasheet.
 
 ### Package
 ```bash
-mvn package
+mvn package -DskipTests
 ```
