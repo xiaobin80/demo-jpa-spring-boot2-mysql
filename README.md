@@ -7,6 +7,7 @@ This is the demo that shows a datasheet.
 >> [2.1.7.RELEASE](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
+>> [redis-server](https://blog.csdn.net/xiaobin_HLJ80/article/details/17483229)
 * Thymeleaf
 * ReactJS    
 >> [userDetails-saga](https://github.com/xiaobin80/userDetails-saga)    
@@ -17,6 +18,7 @@ This is the demo that shows a datasheet.
 - [App](#app)
 - [PC](#pc)
 - [Package](#package)
+- [Run PC](#run)
 
 ### App
 ```java
@@ -49,3 +51,6 @@ This is the demo that shows a datasheet.
 ```bash
 mvn package -DskipTests
 ```
+
+### Run
+[pc side](http://localhost:8080/user/listPage)
