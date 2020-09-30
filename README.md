@@ -7,7 +7,7 @@ This is the demo that shows a datasheet.
 >> [2.x](https://spring.io/projects/spring-boot#learn)
 * JPA
 * MySQL
->> [redis-server](https://blog.csdn.net/xiaobin_HLJ80/article/details/17483229)
+>> [redis-server](https://xiaobin80.gitee.io/csdn/post/ops_dc_redis_ubuntu/)
 * Thymeleaf
 * ReactJS    
 >> [userDetails-saga](https://github.com/xiaobin80/userDetails-saga)    
