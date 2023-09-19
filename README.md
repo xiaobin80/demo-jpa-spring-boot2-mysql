@@ -2,11 +2,9 @@ This is the demo that shows a datasheet.
 
 <img src="https://images2018.cnblogs.com/blog/359743/201806/359743-20180603225915973-2039825735.png" />
 
-EOL: [2023-11-18](https://spring.io/projects/spring-boot#support)
-
 * [Java8](https://adoptium.net/temurin/releases/?version=8)
 * Spring Boot2    
->> [2.x](https://spring.io/projects/spring-boot#learn)
+>> [2.x](https://spring.io/projects/spring-boot#learn) - EOL: [2023-11-18](https://spring.io/projects/spring-boot#support)
 * JPA
 * MySQL
 >> [redis-server](https://tdtc-hrb.github.io/csdn/post/ops_dc_redis_ubuntu/)
